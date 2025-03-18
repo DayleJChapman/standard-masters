@@ -3,3 +3,11 @@
 Standard Masters is a Magic: The Gathering battle box set. It is composed of some of the most powerful and iconic standard decks to ever see the Pro Tour. In this repository, you will find all the resources for the set, including decks lists, primers and the story behind each of these powerhouse decks. 
 
 While all decks can be played against one another, each deck has been assigned a power rating to help you pick balanced mathcups. Each decklist is based off a specific list from an event of it's era, but may include additional sideboard cards from the standard format to help give it some options against the other decks in _this_ format.
+
+## Decklists
+
+| Deck        | Colors | Archetype | Links   |
+| :---------- | -------| :-------- | ------- |
+| Caw-Blade   | W/U    | Tempo     |         |
+| Dragonstorm | R      | Combo     |         |
+| Faeries     | U/B    | Midrange  |         |
