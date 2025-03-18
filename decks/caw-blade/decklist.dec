@@ -1,35 +1,33 @@
-// Deck file created with mtgtop8.com
-// NAME : Caw-Blade
-// CREATOR : _Paulo_Vitor_Damo_da_Rosa
-// FORMAT : Standard
-1 [MBS] Consecrated Sphinx
-4 [M11] Squadron Hawk
-4 [WWK] Stoneforge Mystic
-3 [NPH] Dismember
-1 [MBS] Divine Offering
-2 [ZEN] Into the Roil
-4 [M11] Mana Leak
-3 [ZEN] Spell Pierce
-4 [M11] Preordain
-1 [NPH] Batterskull
-1 [MBS] Sword of Feast and Famine
-1 [NPH] Sword of War and Peace
-4 [WWK] Celestial Colonnade
-3 [M11] Glacial Fortress
-2 [MBS] Inkmoth Nexus
-5 [NPH] Island
-4 [NPH] Plains
-4 [SOM] Seachrome Coast
-4 [WWK] Tectonic Edge
-1 [M11] Jace Beleren
-4 [WWK] Jace, the Mind Sculptor
-SB:  1 [NPH] Dismember
-SB:  2 [MBS] Divine Offering
-SB:  1 [NPH] Batterskull
-SB:  1 [M11] Sun Titan
-SB:  1 [M11] Celestial Purge
-SB:  2 [M11] Condemn
-SB:  1 [ROE] Deprive
-SB:  2 [M11] Flashfreeze
-SB:  1 [M11] Day of Judgment
-SB:  3 [ROE] Oust
+1 Consecrated Sphinx
+4 Squadron Hawk
+4 Stoneforge Mystic
+3 Dismember
+1 Divine Offering
+2 Into the Roil
+4 Mana Leak
+3 Spell Pierce
+4 Preordain
+1 Batterskull
+1 Sword of Feast and Famine
+1 Sword of War and Peace
+4 Celestial Colonnade
+3 Glacial Fortress
+2 Inkmoth Nexus
+5 Island
+4 Plains
+4 Seachrome Coast
+4 Tectonic Edge
+1 Jace Beleren
+4 Jace, the Mind Sculptor
+
+Sideboard
+1 Dismember
+2 Divine Offering
+1 Batterskull
+1 Sun Titan
+1 Celestial Purge
+2 Condemn
+1 Deprive
+2 Flashfreeze
+1 Day of Judgment
+3 Oust
