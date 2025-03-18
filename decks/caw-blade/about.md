@@ -1,9 +1,13 @@
 # Caw-Blade
 
 **Archetype:** Tempo/Control
+
 **Colors:** UW
+
 **Powerlevel:** TBD
+
 **Pilot:** Paulo Vitor Damo da Rosa
+
 **Year:** 2011
 
 ## About
