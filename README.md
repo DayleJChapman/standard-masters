@@ -4,7 +4,7 @@ Standard Masters is a Magic: The Gathering battle box set. It is composed of som
 
 While all decks can be played against one another, each deck has been assigned a power rating to help you pick balanced mathcups. Each decklist is based off a specific list from an event of it's era, but may include additional sideboard cards from the standard format to help give it some options against the other decks in _this_ format.
 
-## Decklists
+## Decks
 
 | Deck                | Colors                                                                  | Archetype | Power Level | Difficulty | Links   |
 | :------------------ | :-----------------------------------------------------------------------| :-------- | ----------- | ---------- | ------- |
