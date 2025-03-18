@@ -7,7 +7,8 @@ While all decks can be played against one another, each deck has been assigned a
 ## Decklists
 
 | Deck        | Colors                                                                  | Archetype | Power Level | Difficulty | Links   |
-| :---------- | ------------------------------------------------------------------------| :-------- | ----------- | ---------- | ------- |
+| :---------- | :-----------------------------------------------------------------------| :-------- | ----------- | ---------- | ------- |
 | Caw-Blade   | <img src="assets/W.svg" width="15"> <img src="assets/U.svg" width="15"> | Tempo     |             |            |         |
 | Dragonstorm | <img src="assets/R.svg" width="15">                                     | Combo     |             |            |         |
 | Faeries     | <img src="assets/U.svg" width="15"> <img src="assets/B.svg" width="15"> | Midrange  |             |            |         |
+| Copy Cat    | <img src="assets/W.svg" width="15"> <img src="assets/U.svg" width="15"> <img src="assets/R.svg" width="15"> <img src="assets/G.svg" width="15"> | Combo  |             |            |         |
