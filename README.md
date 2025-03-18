@@ -20,3 +20,4 @@ While all decks can be played against one another, each deck has been assigned a
 | Abzan Midrange      | <img src="assets/W.svg" width="15"> <img src="assets/B.svg" width="15"> <img src="assets/G.svg" width="15"> | Midrange |             |            | [Decklist](/decks/abzan-midrange/decklist.dec) |
 | Jeskai Black        | <img src="assets/W.svg" width="15"> <img src="assets/U.svg" width="15"> <img src="assets/B.svg" width="15"> <img src="assets/R.svg" width="15"> | Midrange |             |            | [Decklist](/decks/jeskai-black/decklist.dec) |
 | UW Delver           | <img src="assets/W.svg" width="15"> <img src="assets/U.svg" width="15"> | Tempo     |             |            | [Decklist](/decks/uw-delver/decklist.dec) |
+| Jund Midrange      | <img src="assets/B.svg" width="15"> <img src="assets/R.svg" width="15"> <img src="assets/G.svg" width="15"> | Midrange |             |            |[Decklist](/decks/jund-midrange/decklist.dec) | 
